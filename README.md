@@ -30,9 +30,12 @@ The app also generates **thumbnail previews**, displays model details, and provi
 
 **Frontend:** React, Axios, Tailwind CSS, React Router, Three.js, react-three-fiber, react-three-drei
 
-**Backend:** Node.js, Express.js  
+**Backend:** Node.js, Express.js 
+
 **Database:** MongoDB (GridFS for file storage)  
+
 **File Uploads:** Multer  
+
 **3D File Format:** .glb (GL Transmission Format) 
 
 ---
